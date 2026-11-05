@@ -12,7 +12,7 @@ Coming from a non-IT background, I lean heavily into my strong curiosity and ana
 - 🛡️ **Defensive & Offensive Security:** Practicing foundational labs, understanding incident response, and exploring ethical hacking.
 
 ## 🛠️ Tools & Environments
-- **Operating Systems:** Windows (Primary) & Ubuntu Linux (Dedicated Lab Environment)
+- **Operating Systems:** Windows (Primary), kali linux (Lab Environment), Cachy Linux (Secondary) & Ubuntu Linux (Dedicated Lab Environment)
 - **Hypervisors:** Oracle VM VirtualBox (Running Kali Linux)
 - **Platforms:** TryHackMe, GitHub
 
